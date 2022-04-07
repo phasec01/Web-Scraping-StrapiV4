@@ -1,2 +1,2 @@
-# Web-Scraping-StrapiV4
-Web Scraping with StrapiV4
+# WebScraping StrapiV4
+Web Scraping with Strapi V4
